@@ -1,6 +1,8 @@
 ROS-based controller for IRIS+ quadcopters
 ==========================================
 
+[![Join the chat at https://gitter.im/antonioadaldo/sml_under_development](https://badges.gitter.im/antonioadaldo/sml_under_development.svg)](https://gitter.im/antonioadaldo/sml_under_development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A small guide to setting up and running this project.
 More detailed information can be found in the `SML_GUIDE` directory in this project.
 
